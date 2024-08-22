@@ -47,7 +47,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 
 Você pode me encontrar em:
 
-- **GitHub:** ([https://github.com/seu-usuario](https://github.com/EctorYDMenezes))
-- **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/ector-menezes/)
+- **GitHub:** ([[https://github.com/EctorYDMenezes](https://github.com/EctorYDMenezes)])
+- **LinkedIn:** [linkedin.com/in/ector-menezes](https://www.linkedin.com/in/ector-menezes/)
 - **Email:** ectoryuriduarte@gmail.com
 
