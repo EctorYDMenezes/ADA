@@ -35,13 +35,15 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 
 ## Projetos
 
-- **[Appvest](#):** Sistema -> Dashboard responsável por administrar as informações recebidas do aplicativo,  criando gráficos baseados nos dados analisados e assim auxiliando os setores envolvidos a tomarem as decisões mais rentáveis para a empresa. 
+- **[Appvest](#):**
+  - Sistema -> Dashboard responsável por administrar as informações recebidas do aplicativo,  criando gráficos baseados nos dados analisados e assim auxiliando os setores envolvidos a tomarem as decisões mais rentáveis para a empresa. 
 
 - **[Appfichas](#):**
   - Sistema -> Dashboard responsável por administrar as informações recebidas do aplicativo,  criando gráficos baseados nos dados analisados e assim auxiliando os setores envolvidos a tomarem as decisões mais rentáveis para a empresa.
   - Aplicativo -> Aplicativo mobile responsável pelo cadastro de fichas de novos candidatos.
 
-- **[Checkout](#):** Sistema de pgamento em php com objetivo de ser flexível para qualquer aplicação.
+- **[Checkout](#):**
+  - Sistema-> Sistema de pgamento em php com objetivo de ser flexível para qualquer aplicação.
 
 ## Contato
 
